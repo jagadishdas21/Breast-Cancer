@@ -17,15 +17,16 @@ The dataset used in this project is sourced from sklearn datasets. It contains v
 
 ## Installation
 To run this project, you will need to have Python installed. You can install the required libraries using pip:
-bash: pip install pandas numpy scikit-learn
+``bash 
+pip install pandas numpy scikit-learn
 
 ## Usage
 
 1. Clone this repository to your local machine:
-bash
+``bash
 git clone https://github.com/yourusername/breast-cancer-prediction.git
 3. Navigate to the project directory:
-bash
+``bash
 cd breast-cancer-prediction
 5. Open the Jupyter notebook or Python script and run the code to see the predictions.
 
