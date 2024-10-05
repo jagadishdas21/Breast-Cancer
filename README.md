@@ -1,9 +1,9 @@
 # Breast Cancer Prediction
 
-This project aims to predict the tumor is malignant or benign from the data of patients having breast cancer using a Linear Regression Model.
+This project aims to predict the tumor is malignant or benign from the data of patients having breast cancer using a Logistic Regression Model.
 
 ## Overview
-Breast cancer is one of the most common cancers affecting women worldwide. Early prediction and diagnosis can significantly improve treatment outcomes. This project employs a Linear Regression Model to assist in predicting breast cancer risk based on various input features.
+Breast cancer is one of the most common cancers affecting women worldwide. Early prediction and diagnosis can significantly improve treatment outcomes. This project employs a Logistic Regression Model to assist in predicting breast cancer risk based on various input features.
 
 ## Technologies Used
 - Python
