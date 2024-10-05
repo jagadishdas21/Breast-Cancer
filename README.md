@@ -10,25 +10,24 @@ Breast cancer is one of the most common cancers affecting women worldwide. Early
 - Pandas
 - NumPy
 - Scikit-Learn
+- Logistic Regression
 
 ## Dataset
 The dataset used in this project is sourced from sklearn datasets. It contains various attributes related to breast cancer that will be used for prediction.
 
 ## Installation
 To run this project, you will need to have Python installed. You can install the required libraries using pip:
-
-```bash
-pip install pandas numpy scikit-learn
+bash: pip install pandas numpy scikit-learn
 
 ## Usage
 
 1. Clone this repository to your local machine:
-```bash
+bash
 git clone https://github.com/yourusername/breast-cancer-prediction.git
-2. Navigate to the project directory:
-```bash
+3. Navigate to the project directory:
+bash
 cd breast-cancer-prediction
-3. Open the Jupyter notebook or Python script and run the code to see the predictions.
+5. Open the Jupyter notebook or Python script and run the code to see the predictions.
 
 ## Results
 The model's performance and predictions are displayed in the results section of the notebook. You can analyze the accuracy and efficiency of the model based on the dataset used.
