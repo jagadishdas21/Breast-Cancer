@@ -22,7 +22,7 @@ cmd > pip install pandas numpy scikit-learn
 ## Usage
 
 1. Clone this repository to your local machine:
-bash $ git clone https://github.com/yourusername/breast-cancer-prediction.git
+bash $ git clone https://github.com/jagadishdas21/breast-cancer-prediction.git
 3. Navigate to the project directory:
 bash $ cd breast-cancer-prediction
 5. Open the Jupyter notebook or Python script and run the code to see the predictions.
